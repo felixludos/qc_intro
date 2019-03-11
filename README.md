@@ -33,3 +33,4 @@ Aside from the `py-primer` notebook, this repo contains a series of jupyter note
 2. **Quantum Phenomena**: Investigate several of the mysterious and unintuitive behavior of quantum systems including the uncertainty principle, time evolution of superposition states, and wavefunction collapse
 3. **Cats and Qubits**: Build quantum circuits using IBM's excellent `qiskit` and see how quantum computing arises from superposition and entanglement 
 4. **Quantum Interpretations**: Test Bell's inequality and reflect on the philosophical implications thereof
+5. **Logic and Grover's Algorithm**: Apply Grover's algorithm to solve an NP-complete problem faster than any known classical algorithm
