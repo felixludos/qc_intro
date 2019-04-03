@@ -1,4 +1,4 @@
-# Quantum Mechanics for Engineers
+# Intro to Quantum Computing
 
 ## Setup
 
